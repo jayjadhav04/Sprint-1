@@ -95,13 +95,13 @@ export default function Footer() {
 
           <div className="flex flex-col items-center gap-4 sm:items-end">
             <a
-              href="https://digitalheroesco.com"
+            
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-xl bg-slate-900 px-5 py-2.5 text-sm font-semibold text-white shadow-md transition-all duration-200 hover:bg-blue-600 hover:shadow-blue-500/10 active:scale-95 dark:bg-slate-800 dark:hover:bg-blue-600 cursor-pointer"
             >
               <ShieldCheck className="h-4 w-4" />
-              <span>Built for Digital Heroes</span>
+              <span>Built for Career Sucess</span>
             </a>
           </div>
         </div>
