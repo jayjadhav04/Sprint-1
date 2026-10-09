@@ -17,3 +17,4 @@ export interface InterviewQuestionsResult {
   hr: InterviewQuestionItem[];
   project: InterviewQuestionItem[];
 }
+

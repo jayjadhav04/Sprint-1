@@ -54,3 +54,4 @@ export default function Navbar({ onAboutClick, darkMode, toggleDarkMode }: Navba
     </header>
   );
 }
+

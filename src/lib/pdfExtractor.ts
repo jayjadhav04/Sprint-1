@@ -21,3 +21,4 @@ export async function extractTextFromPdf(buffer: Buffer): Promise<string> {
     throw new Error('Failed to parse PDF resume. Please ensure the PDF is not password-protected and contains readable text.');
   }
 }
+

@@ -126,3 +126,4 @@ To run CareerBoost AI locally on your machine, follow these steps:
 - **LinkedIn**: [in/jayjadhav04](https://linkedin.com/in/jayjadhav04)
 - **GitHub**: [github.com/jayjadhav04](https://github.com/jayjadhav04)
 - **Portfolio**: [jay-jadhav-portfolio.vercel.app](https://jay-jadhav-portfolio.vercel.app)
+

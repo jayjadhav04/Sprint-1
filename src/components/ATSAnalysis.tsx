@@ -336,3 +336,4 @@ ${analysis.suggestions.map(s => `- ${s}`).join('\n')}
     </div>
   );
 }
+

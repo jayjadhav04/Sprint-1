@@ -127,3 +127,4 @@ export default function Loading({ type }: LoadingProps) {
     </div>
   );
 }
+
